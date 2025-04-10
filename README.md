@@ -13,10 +13,10 @@
 </div>
 <br>
 <div style="margin-bottom:20;">
-<a href="https://dev.to/envoy_/150-badges-for-github-pnk#contents">
+<a href="https://www.linkedin.com/in/richarlyson-luan-80708b356?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a> 
-<a href="https://dev.to/envoy_/150-badges-for-github-pnk#contents">
+<a href="https://stackoverflow.com/users/29702485/richarlyson-luan?tab=profile">
 <img src="https://aleen42.github.io/badges/src/stackoverflow.svg">
 </a>
 </div>
