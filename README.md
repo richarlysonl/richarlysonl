@@ -1,22 +1,43 @@
-🐳 Richarlyson Luan
-<div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=richarlysonl&show_icons=true&theme=dark" width="400">
-  <img align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=richarlysonl&layout=compact" width="360">
-</div>  
-<br>
-<div style="display: inline-block; margin-bottom:20;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5 Logo" width="40">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS3 Logo" width="30">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" width="30">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="30">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP Logo" width="50">
-</div>
-<br>
-<div style="margin-bottom:20;">
-<a href="https://www.linkedin.com/in/richarlyson-luan-80708b356?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a> 
-<a href="https://stackoverflow.com/users/29702485/richarlyson-luan?tab=profile">
-<img src="https://aleen42.github.io/badges/src/stackoverflow.svg">
-</a>
-</div>
+<h1 align="center">Olá! 👋 Eu sou o Richarlyson Luan</h1>
+<p align="center">
+  👨‍💻 Desenvolvedor Full Stack | 🎓 Estudante de TSI no IF goiano campus morrinhos | 🚀 Apaixonado por Tecnologia
+</p>
+
+---
+### 🛠️ GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=richarlysonl&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richarlysonl&layout=compact&theme=tokyonight" height="150"/>
+</p>
+
+---
+
+### 🚀 Sobre mim
+
+Sou um entusiasta de tecnologia em constante aprendizado, focado em desenvolvimento **web e de jogos**, com experiência em:
+
+- 🔹 **JavaScript**, **TypeScript**, **PHP**, **Python**
+- 🔹 **React**, **Next.js**, **Node.js**
+- 🔹 **GameMaker**, **Unity (C# básico)**
+- 🔹 **MySQL**, **PostgreSQL**, **MongoDB**
+- 🔹 **Git**, **Docker**, **Render**, **Vercel**
+
+---
+
+### 🌱 Atualmente aprendendo
+
+- 🧠 Inteligência Artificial aplicada a jogos
+- 🕹️ Design de sistemas imprevisíveis e IA para NPCs
+- ☁️ aprofundamento em node, react e next.js
+
+---
+
+### 📫 Como me encontrar
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/richarlyson)
+- 📬 richarluson@email.com
+
+---
+
+
