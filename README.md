@@ -7,12 +7,12 @@
 ### 🛠️ GitHub Stats
 
 <p align="center">
+  <img src="https://streak-stats.demolab.com?user=richarlysonl&theme=tokyonight&hide_border=false" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api?username=richarlysonl&show_icons=true&theme=tokyonight" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richarlysonl&layout=compact&theme=tokyonight" height="150"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=richarlysonl&theme=tokyo-night" />
+
 </p>
-
----
-
 ### 🚀 Sobre mim
 
 Sou um entusiasta de tecnologia em constante aprendizado, focado em desenvolvimento **web e de jogos**, com experiência em:
